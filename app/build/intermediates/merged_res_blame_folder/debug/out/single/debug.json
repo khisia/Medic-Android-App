@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/layout_app_bar_home.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/layout/app_bar_home.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/layout_activity_book_an_appointment.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/layout/activity_book_an_appointment.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-anydpi-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable_mrembo.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/drawable/mrembo.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable_operation.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/drawable/operation.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-hdpi_daktari.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-hdpi/daktari.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-hdpi_baseline_login_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-hdpi/baseline_login_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-ldpi_baseline_how_to_reg_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-ldpi/baseline_how_to_reg_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable_doctor.jpeg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/drawable/doctor.jpeg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/menu_activity_main_drawer.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable_side_nav_bar.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-hdpi_operation.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-hdpi/operation.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-anydpi-v21_ic_menu_camera.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-anydpi-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/layout_nav_header_home.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/layout/nav_header_home.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-xhdpi_baseline_login_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-xhdpi/baseline_login_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.medicandroidapplicationproject.app-merged_res-51:/layout_content_home.xml.flat",
+        "source": "com.example.medicandroidapplicationproject.app-main-53:/layout/content_home.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable_ambulence.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/drawable/ambulence.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/layout_content_home.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/layout/content_home.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-hdpi_baseline_how_to_reg_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-hdpi/baseline_how_to_reg_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/layout_activity_main.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-xxhdpi_baseline_login_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-xxhdpi/baseline_login_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/xml_backup_rules.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-xxhdpi_baseline_how_to_reg_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-xxhdpi/baseline_how_to_reg_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-hdpi_mrembo.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-hdpi/mrembo.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-anydpi-v24_baseline_how_to_reg_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-anydpi-v24/baseline_how_to_reg_24.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-mdpi_baseline_how_to_reg_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-mdpi/baseline_how_to_reg_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-anydpi-v21_baseline_login_24.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-anydpi-v21/baseline_login_24.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/layout_activity_home.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-xxxhdpi_baseline_how_to_reg_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-xxxhdpi/baseline_how_to_reg_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-xhdpi_baseline_how_to_reg_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-xhdpi/baseline_how_to_reg_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-ldpi_baseline_login_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-ldpi/baseline_login_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable_daktari.jpg.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/drawable/daktari.jpg"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/layout_activity_register.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-xxxhdpi_baseline_login_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-xxxhdpi/baseline_login_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-mdpi_baseline_login_24.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-mdpi/baseline_login_24.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/layout_activity_book_an_ambulance.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/layout/activity_book_an_ambulance.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/menu_home.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/menu/home.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-anydpi-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-pngs-47:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-merged_res-51:/layout_activity_login.xml.flat",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/layout/activity_login.xml"
+    }
+]

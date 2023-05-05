@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-mergeDebugResources-50:/layout/content_home.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/layout/content_home.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-mergeDebugResources-50:/layout/activity_main.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-mergeDebugResources-50:/layout/activity_register.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-mergeDebugResources-50:/layout/nav_header_home.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/layout/nav_header_home.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-mergeDebugResources-50:/layout/activity_home.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-mergeDebugResources-50:/layout/activity_login.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-mergeDebugResources-50:/layout/app_bar_home.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/layout/app_bar_home.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-mergeDebugResources-50:/layout/activity_book_an_appointment.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/layout/activity_book_an_appointment.xml"
+    },
+    {
+        "merged": "com.example.medicandroidapplicationproject.app-mergeDebugResources-50:/layout/content_home.xml",
+        "source": "com.example.medicandroidapplicationproject.app-main-53:/layout/content_home.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-mergeDebugResources-50:/layout/activity_book_an_ambulance.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.medicandroidapplicationproject.app-main-53:/layout/activity_book_an_ambulance.xml"
+    }
+]

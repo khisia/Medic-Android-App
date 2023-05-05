@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mrembo"
+    tools:context=".Register_Activity">
+
+    <TextView
+        android:id="@+id/mTvIntro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="To know more about us you will be required to register with us"
+        android:textColor="#CDDC39"
+        android:textSize="30dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/mTvName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:ems="10"
+        android:hint="Enter Full Name"
+        android:inputType="text"
+        android:textColor="#213DF3"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mTvIntro" />
+
+    <EditText
+        android:id="@+id/mTvPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="22dp"
+        android:ems="10"
+        android:hint="Enter Phone Number"
+        android:inputType="phone"
+        android:textColor="#213DF3"
+        android:textSize="20dp"
+        app:layout_constraintStart_toStartOf="@+id/mTvName"
+        app:layout_constraintTop_toBottomOf="@+id/mTvName" />
+
+    <EditText
+        android:id="@+id/mTvEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:hint="Enter Email"
+        android:inputType="textEmailAddress"
+        android:textColor="#213DF3"
+        android:textSize="20dp"
+        app:layout_constraintStart_toStartOf="@+id/mTvPhone"
+        app:layout_constraintTop_toBottomOf="@+id/mTvPhone" />
+
+    <EditText
+        android:id="@+id/mTvPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:ems="10"
+        android:hint="Enter Password"
+        android:inputType="textPassword"
+        android:textColor="#213DF3"
+        android:textSize="20dp"
+        app:layout_constraintStart_toStartOf="@+id/mTvEmail"
+        app:layout_constraintTop_toBottomOf="@+id/mTvEmail" />
+
+    <Button
+        android:id="@+id/mBtnReg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="70dp"
+        android:layout_marginEnd="69dp"
+        android:layout_marginBottom="13dp"
+        android:backgroundTint="#4CAF50"
+        android:text="Register"
+        app:layout_constraintBottom_toTopOf="@+id/mTvOrLogin"
+        app:layout_constraintEnd_toEndOf="@+id/mTvOrLogin"
+        app:layout_constraintStart_toStartOf="@+id/mTvConfPassword" />
+
+    <TextView
+        android:id="@+id/mTvOrLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="72dp"
+        android:layout_marginBottom="94dp"
+        android:text="Already have an account?"
+        android:textColor="#0F0F10"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <EditText
+        android:id="@+id/mTvConfPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="13dp"
+        android:ems="10"
+        android:hint="Confirm password"
+        android:inputType="textPassword"
+        app:layout_constraintStart_toStartOf="@+id/mTvPassword"
+        app:layout_constraintTop_toBottomOf="@+id/mTvPassword" />
+</androidx.constraintlayout.widget.ConstraintLayout>

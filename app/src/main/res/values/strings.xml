@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Online Medic Hospital</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Online Medic Hospital</string>
+    <string name="nav_header_subtitle">Your Healthy Is Our Concern</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_register">Register</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_register">Register</string>
+    <string name="menu_login">LogIn</string>
+    <string name="menu_appointment">Book An Appointment</string>
+    <string name="menu_ambulance">Book An Ambulance</string>
+    <string name="menu_logout">Logout</string>
+</resources>

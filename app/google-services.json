@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "502763317493",
+    "firebase_url": "https://kotlin-android-app-project-default-rtdb.firebaseio.com",
+    "project_id": "kotlin-android-app-project",
+    "storage_bucket": "kotlin-android-app-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502763317493:android:7f6e644b7ca5198cef3dbc",
+        "android_client_info": {
+          "package_name": "com.example.medicandroidapplicationproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502763317493-fikhq0of2k5kh7qpkh58c7o19ob343qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_LU2HhrYYDzh-L8bU-ahTa6lEr4ux5W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502763317493-fikhq0of2k5kh7qpkh58c7o19ob343qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

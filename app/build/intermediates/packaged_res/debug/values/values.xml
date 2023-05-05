@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <item name="ic_menu_camera" type="drawable">@android:drawable/ic_menu_camera</item>
+    <item name="ic_menu_manage" type="drawable">@android:drawable/ic_menu_manage</item>
+    <item name="ic_menu_send" type="drawable">@android:drawable/ic_menu_send</item>
+    <item name="ic_menu_share" type="drawable">@drawable/ic_menu_gallery</item>
+    <item name="ic_menu_slideshow" type="drawable">@android:drawable/ic_menu_slideshow</item>
+    <string name="action_register">Register</string>
+    <string name="app_name">Online Medic Hospital</string>
+    <string name="default_web_client_id" translatable="false">502763317493-fikhq0of2k5kh7qpkh58c7o19ob343qn.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://kotlin-android-app-project-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">502763317493</string>
+    <string name="google_api_key" translatable="false">AIzaSyB_LU2HhrYYDzh-L8bU-ahTa6lEr4ux5W8</string>
+    <string name="google_app_id" translatable="false">1:502763317493:android:7f6e644b7ca5198cef3dbc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB_LU2HhrYYDzh-L8bU-ahTa6lEr4ux5W8</string>
+    <string name="google_storage_bucket" translatable="false">kotlin-android-app-project.appspot.com</string>
+    <string name="menu_ambulance">Book An Ambulance</string>
+    <string name="menu_appointment">Book An Appointment</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_login">LogIn</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_register">Register</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">Your Healthy Is Our Concern</string>
+    <string name="nav_header_title">Online Medic Hospital</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="project_id" translatable="false">kotlin-android-app-project</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <style name="Base.Theme.MedicAndroidApplicationProject" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MedicAndroidApplicationProject" parent="Base.Theme.MedicAndroidApplicationProject"/>
+    <style name="Theme.MedicAndroidApplicationProject.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.MedicAndroidApplicationProject.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.MedicAndroidApplicationProject.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>
